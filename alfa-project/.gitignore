@@ -1,0 +1,8 @@
+.env
+*.temp
+venv
+.venv
+*.log
+log[0-9].txt
+pyrightconfig.json
+__pycache__/
