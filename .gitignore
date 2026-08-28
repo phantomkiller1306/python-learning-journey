@@ -1,0 +1,8 @@
+*.tmp
+log[0-9].txt
+*.log
+temp/
+.env
+.venv 
+venv 
+env
