@@ -6,3 +6,6 @@ temp/
 .venv 
 venv 
 env
+
+.vscode/
+__pycache__/
