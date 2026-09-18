@@ -8,4 +8,5 @@ venv
 env
 
 .vscode/
+*/.vscode/*
 __pycache__/
